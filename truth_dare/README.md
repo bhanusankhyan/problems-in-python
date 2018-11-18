@@ -19,7 +19,8 @@ Let's take an example where Ram can perform truth tasks 3, 2 and 5 and dare task
 <br>
 <hr>
 <br>
-### Input
+
+### Input <br>
 * The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 * The first line of each test case contains a single integer tr.
 * The second line contains tr space-separated integers Tr,1,Tr,2,…,Tr,tr.
@@ -29,56 +30,56 @@ Let's take an example where Ram can perform truth tasks 3, 2 and 5 and dare task
 * The sixth line contains ts space-separated integers Ts,1,Ts,2,…,Ts,ts.
 * The seventh line contains a single integer ds.
 * The eighth line contains ds space-separated integers Ds,1,Ds,2,…,Ds,ds.
-### Output
+### Output <br>
 For each test case, print a single line containing the string "yes" if Ram wins the game or "no" otherwise.
 <br>
 <hr>
 <br>
 
-###Constraints
-1≤T≤100
-1≤tr,dr,ts,ds≤100
-1≤Tr,i≤100 for each valid i
-1≤Dr,i≤100 for each valid i
-1≤Ts,i≤100 for each valid i
-1≤Ds,i≤100 for each valid i
-* Example Input *
-4
-2
-1 2
-3
-1 3 2
-1
-2
-2
-3 2
-2
-1 2
-3
-1 3 2
-1
-2
-3
-3 2 4
-3
-3 2 5
-2
-2 100
-1
-2
-1
-100
-2
-1 2
-3
-1 3 2
-1
-2
-3
-3 2 2
-* Example Output *
-yes
-no
-yes
-yes
+### Constraints
+1≤T≤100 <br>
+1≤tr,dr,ts,ds≤100 <br>
+1≤Tr,i≤100 for each valid i <br>
+1≤Dr,i≤100 for each valid i <br>
+1≤Ts,i≤100 for each valid i <br>
+1≤Ds,i≤100 for each valid i <br>
+** Example Input ** <br>
+4 <br>
+2 <br> 
+1 2 <br>
+3 <br>
+1 3 2 <br>
+1 <br>
+2 <br>
+2 <br>
+3 2 <br>
+2 <br>
+1 2 <br>
+3 <br>
+1 3 2 <br>
+1 <br>
+2 <br>
+3 <br>
+3 2 4 <br>
+3 <br>
+3 2 5 <br>
+2 <br>
+2 100 <br>
+1 <br>
+2 <br>
+1 <br>
+100 <br>
+2 <br>
+1 2 <br>
+3 <br>
+1 3 2 <br>
+1 <br>
+2 <br>
+3 <br>
+3 2 2 <br>
+* Example Output * <br>
+yes <br>
+no <br>
+yes <br>
+yes <br>
 
