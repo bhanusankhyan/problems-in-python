@@ -1,9 +1,6 @@
 # who-tweeted-most-python
 
 
-# who-tweeted-most-python
-
-
 You will be given a list of tweets
 Your program should find the user who has tweeted the most
 
