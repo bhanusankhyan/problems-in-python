@@ -43,7 +43,7 @@ For each test case, print a single line containing the string "yes" if Ram wins 
 1≤Dr,i≤100 for each valid i <br>
 1≤Ts,i≤100 for each valid i <br>
 1≤Ds,i≤100 for each valid i <br>
-** Example Input ** <br>
+**Example Input** <br>
 4 <br>
 2 <br> 
 1 2 <br>
@@ -77,7 +77,7 @@ For each test case, print a single line containing the string "yes" if Ram wins 
 2 <br>
 3 <br>
 3 2 2 <br>
-* Example Output * <br>
+**Example Output** <br>
 yes <br>
 no <br>
 yes <br>
