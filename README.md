@@ -25,7 +25,7 @@ Find the user with max number of tweets. Print user name and total number of twe
 
 #### Sample 1:
 * **Input** 
-1
+1 <br>
 4
 sachin tweet_id_1
 sehwag tweet_id_2
